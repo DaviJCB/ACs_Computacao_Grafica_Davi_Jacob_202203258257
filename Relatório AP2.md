@@ -28,6 +28,8 @@ O projeto precisava obrigatoriamente ter uma ponte e um rio, então usei isso co
 ## Conclusão
 A animação é simples, mas tenta transmitir uma mensagem emocional usando luz, cores e o cenário. A transição do ambiente azulado para o pôr do sol mostra o processo do personagem aceitando a perda e seguindo em frente. Mesmo com poucos elementos, o objetivo foi criar uma cena expressiva e visualmente agradável.
 
+Link Google Drive: https://drive.google.com/drive/folders/1GLnzmDYganL--YuoOfXZ_ddXWpOL9Fat?usp=drive_link
+_Obs: Por questões de tempo de renderização, o vídeo ficou mais rápido do que tinha planejado, se posto na velocidade 0.5x a experiência fica mais próxima da ideia inicial._
 
 Imagens do trabalho renderizado:
 
@@ -36,4 +38,7 @@ Imagens do trabalho renderizado:
 <img width="1650" height="750" alt="image" src="https://github.com/user-attachments/assets/0a702b5e-958f-4a86-b5c1-25398bdb828a" />
 
 <img width="1651" height="814" alt="image" src="https://github.com/user-attachments/assets/8f680312-7bb4-4f0c-a77c-39c93c853ca1" />
+
+
+
 
