@@ -48,9 +48,9 @@ _Obs: Por questões de tempo de renderização, o vídeo ficou mais rápido do q
 
 Imagens do trabalho renderizado:
 
-<img width="1626" height="722" alt="image" src="https://github.com/user-attachments/assets/ab628768-be84-418c-bf3e-acc98933f925" />
+<img width="1591" height="750" alt="image" src="https://github.com/user-attachments/assets/d888eec0-e3b9-4242-9199-a0d859688214" />
 
-<img width="1650" height="750" alt="image" src="https://github.com/user-attachments/assets/0a702b5e-958f-4a86-b5c1-25398bdb828a" />
+<img width="1656" height="794" alt="image" src="https://github.com/user-attachments/assets/4dd7e3b7-65fd-4d42-b0bf-5165c6dfffd3" />
 
 <img width="1651" height="814" alt="image" src="https://github.com/user-attachments/assets/8f680312-7bb4-4f0c-a77c-39c93c853ca1" />
 
