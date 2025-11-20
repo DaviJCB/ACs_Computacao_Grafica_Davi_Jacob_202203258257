@@ -1,7 +1,7 @@
 # Relatório – Conceito da Animação
 
 ## Introdução
-Este trabalho apresenta a ideia por trás de uma animação simples feita no Blender. A proposta foi criar uma cena que representasse o momento final do luto de um personagem, usando iluminação, cores e elementos do cenário para transmitir emoções.
+Este trabalho apresenta a ideia por trás de uma animação simples feita no Blender para a matéria de computação gráfica. A proposta foi criar uma cena que representasse o momento final do luto de um personagem, usando iluminação, cores e elementos do cenário para transmitir emoções.
 
 ## Conceito da Animação
 A animação mostra um homem visitando pela última vez o parque onde conheceu sua esposa, que já faleceu. A intenção é representar as fases do luto — como tristeza, raiva e aceitação — de forma visual.
@@ -25,6 +25,21 @@ A cena começa com um ambiente mais vazio e frio, representando a parte mais dif
 ## Escolha do Ambiente
 O projeto precisava obrigatoriamente ter uma ponte e um rio, então usei isso como base para criar todo o simbolismo da cena. A ideia foi aproveitar esses elementos para mostrar visualmente a mudança emocional do personagem, além de explorar técnicas vistas em aula, como iluminação e composição.
 
+
+## Desafios
+Durante o desenvolvimento da animação, alguns desafios apareceram no processo:
+
+- Iluminação: Fazr uso das luzes não foi fácil por conta do entendimento da física da luz, mas tentei ao máximo explorar diferentes tipos de formato de luz com caracteristicas diferentes da cena.
+
+- Animação da câmera: Ajustar a velocidade e o movimento da câmera foi um ponto complicado. Em alguns momentos ela ficava rápida demais, e isso afetava o sentimento que eu queria passar. Mesmo no final, o render ficou mais rápido do que o planejado.
+
+- Composição do cenário: Organizar os elementos de forma que não ficassem vazios demais, mas também não poluídos, deu um pouco de trabalho. Principalmente na transição da ponte, que precisava parecer natural.
+
+- Vegetação e detalhes: Adicionar grama e outros detalhes sem pesar muito no render foi um desafio técnico. Precisei simplificar algumas coisas para o computador aguentar.
+
+- Tempo de renderização: Por conta do tempo disponível, precisei fazer escolhas simples em alguns efeitos e reduzir a duração final da animação.
+
+
 ## Conclusão
 A animação é simples, mas tenta transmitir uma mensagem emocional usando luz, cores e o cenário. A transição do ambiente azulado para o pôr do sol mostra o processo do personagem aceitando a perda e seguindo em frente. Mesmo com poucos elementos, o objetivo foi criar uma cena expressiva e visualmente agradável.
 
@@ -38,7 +53,6 @@ Imagens do trabalho renderizado:
 <img width="1650" height="750" alt="image" src="https://github.com/user-attachments/assets/0a702b5e-958f-4a86-b5c1-25398bdb828a" />
 
 <img width="1651" height="814" alt="image" src="https://github.com/user-attachments/assets/8f680312-7bb4-4f0c-a77c-39c93c853ca1" />
-
 
 
 
