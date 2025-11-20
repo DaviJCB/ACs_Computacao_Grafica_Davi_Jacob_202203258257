@@ -23,7 +23,7 @@ A cena começa com um ambiente mais vazio e frio, representando a parte mais dif
   - Mais elementos decorativos e vegetação (como a grama 3D), deixando o ambiente mais vivo e bonito.
 
 ## Escolha do Ambiente
-O projeto precisava obrigatoriamente ter uma ponte e um rio, então usei isso como base para criar todo o simbolismo da cena. A ideia foi aproveitar esses elementos para mostrar visualmente a mudança emocional do personagem, além de explorar técnicas vistas em aula, como iluminação e composição.
+O projeto precisava obrigatoriamente ter uma ponte e um rio, então usei isso como base para criar todo o simbolismo da cena. A ideia foi aproveitar esses elementos para mostrar visualmente a mudança emocional do personagem, além de explorar técnicas vistas em aula, como iluminação e composição. Além disso, minha ideia inicial era fazer um parque a noite, mas por desafios encontrados com as dinâmicas da luz, alterei para um parque/campo aberto que passasse serenidade. Com o desenvolvimento da ideia por trás, alterei e decorei o cenário da forma que achei que transmitiria bem a ideia.
 
 
 ## Desafios
